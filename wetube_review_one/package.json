@@ -2,9 +2,8 @@
   "name": "wetube_review_one",
   "version": "1.0.0",
   "description": "Review!",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/CodeSubSpace/CodeSubSpace/issues"
   },
-  "homepage": "https://github.com/CodeSubSpace/CodeSubSpace#readme"
+  "homepage": "https://github.com/CodeSubSpace/CodeSubSpace#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
