@@ -1,0 +1,19 @@
+{
+  "name": "wetube_review_one",
+  "version": "1.0.0",
+  "description": "Review!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeSubSpace/CodeSubSpace.git"
+  },
+  "author": "CodeSubSpace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeSubSpace/CodeSubSpace/issues"
+  },
+  "homepage": "https://github.com/CodeSubSpace/CodeSubSpace#readme"
+}
