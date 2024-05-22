@@ -1,1 +1,5 @@
-console.log("hello this is second wetube clone coding project by CodeSubSpace");
+import express from "express";
+
+const app = express();
+
+console.log("hello!!!");
