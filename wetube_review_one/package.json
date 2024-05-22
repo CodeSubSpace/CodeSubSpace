@@ -2,7 +2,7 @@
   "name": "wetube_review_one",
   "version": "1.0.0",
   "scripts": {
-    "dev": "nodemon --exec babel-node index.js"
+    "dev": "nodemon --exec babel-node src/server.js"
   },
   "repository": {
     "type": "git",
