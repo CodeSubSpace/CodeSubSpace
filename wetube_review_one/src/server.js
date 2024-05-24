@@ -16,7 +16,7 @@ app.use("/", globalRouter);
 app.use("/video", videoRouter);
 
 
-// Open Server
+// ✅ Open Server 🚀
 const handleListener = () => {
     console.log (`✅ The server listening on port 4000 http://localhost:${PORT} 🚀`)
 }
